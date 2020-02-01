@@ -62,7 +62,7 @@ Improvements:
 
 Development Changes:
 
-Screenshots
+Screenshots:
 
 Credits:
 Gulam Qasim
