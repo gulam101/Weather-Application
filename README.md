@@ -1,5 +1,7 @@
 # Weather-Application
 
+## JavaScript weather application
+
 # Table of Conents:
 
 [Description](#Description)  
