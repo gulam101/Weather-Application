@@ -36,19 +36,19 @@ This project was created so that I can put everything I learnt in JavaScript. I 
 
 There are some changes needed as the project is still incomplete. For example, if a user is looking at the app during the night then it should change the background to dark.
 
-Languages: 
+### Languages: 
 - HTML5 
 - CSS3
 - JavaScript ES6
 
-What I Learnt:
+### What I Learnt:
 - Better undestanding of HTML
 - Better understanding of CSS
 - Variables in JavaScript
 - API testing using JavaScript
 - Getting comftable using Atom
 
-Tools/Links:
+### Tools/Links:
 - https://developers.google.com/maps/documentation/javascript/get-api-key
 - https://www.w3schools.com/js/
 - YouTube (Links to helpful videos)
@@ -56,14 +56,13 @@ Tools/Links:
 - https://www.w3schools.com/html/html5_intro.asp
 - https://www.w3schools.com/css/default.asp
 
-Constraints:
+### Constraints:
 
-Improvements:
+### Improvements:
 
-Development Changes:
+### Development Changes:
 
-Screenshots:
+### Screenshots:
 
-Credits:
+### Credits:
 Gulam Qasim
-
