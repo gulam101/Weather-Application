@@ -38,6 +38,10 @@ Stack used: HTMl5, CSS3 and JavaScript ES6
 There are some changes needed as the project is still incomplete. For example, if a user is looking at the app during the night then it should change the background to dark.
 
 What I Learnt:
+- Better undestanding of HTML
+- Better understanding of CSS
+- API testing using JavaScript
+- Getting comftable using Atom
 
 Tools/Links:
 
