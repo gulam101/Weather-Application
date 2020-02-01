@@ -49,7 +49,7 @@ There are some changes needed as the project is still incomplete. For example, i
 - Getting comftable using Atom
 
 ### Tools/Links:
-- https://developers.google.com/maps/documentation/javascript/get-api-key
+- https://developers.google.com/maps/documentation/javascript/get-api-key (for api)
 - https://www.w3schools.com/js/
 - YouTube (Links to helpful videos)
 - https://atom.io/ (IDE)
