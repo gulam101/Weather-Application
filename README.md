@@ -53,7 +53,8 @@ Tools/Links:
 - https://www.w3schools.com/js/
 - YouTube (Links to helpful videos)
 - https://atom.io/ (IDE)
-
+- https://www.w3schools.com/html/html5_intro.asp
+- https://www.w3schools.com/css/default.asp
 
 Constraints:
 
