@@ -38,7 +38,7 @@ Goal of the project: It was meant to show people their location and what the wea
 
 There are some changes needed as the project is still incomplete. For example, if a user is looking at the app during the night then it should change the background to dark.
 
-Stack: HTMl5, CSS3 and JavaScript ES6
+Languages: HTMl5, CSS3 and JavaScript ES6
 
 What I Learnt:
 - Better undestanding of HTML
