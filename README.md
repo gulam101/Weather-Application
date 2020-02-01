@@ -65,4 +65,4 @@ There are some changes needed as the project is still incomplete. For example, i
 ### Screenshots:
 
 ### Credits:
-Gulam Qasim
+- Gulam Qasim
