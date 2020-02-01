@@ -1,6 +1,6 @@
 # Weather-Application
 
-## JavaScript weather application
+## Track the weather in your current location!
 
 # Table of Conents:
 
