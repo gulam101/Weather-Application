@@ -5,9 +5,6 @@
 [Description](#Description)  
 <a name="Description"/>
 
-[Planned Features](#Planned_Features)  
-<a name="Planned_Features"/>
-
 [What I learnt](#What_I_Learnt)  
 <a name="What_I_Learnt"/>
 
@@ -16,9 +13,6 @@
 
 [Improvements](#Improvements)  
 <a name="Improvements"/>
-
-[Ad-Hoc Testing](#Ad-Hoc_Testing)  
-<a name="Ad-Hoc_Testing"/>
 
 [Development Changes](#Development_Changes)  
 <a name="Development_Changes"/>
