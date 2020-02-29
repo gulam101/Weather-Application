@@ -1,6 +1,6 @@
 # Weather-Application
 
-## Track the weather in your current location!
+## Track the weather in your current location! - HTML, CSS, JavaScript, & RESTFul API
 
 # Table of Conents:
 
